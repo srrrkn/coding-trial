@@ -1,0 +1,5 @@
+{
+    // pytest有効化
+    "python.testing.pytestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+}

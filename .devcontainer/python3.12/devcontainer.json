@@ -1,0 +1,13 @@
+{
+	"name": "Python 3.12",
+	"image": "python3.12:latest",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.debugpy",
+				"oderwat.indent-rainbow"
+			]
+		}
+	}
+}
