@@ -6,8 +6,13 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.debugpy",
-				"oderwat.indent-rainbow"
+				"oderwat.indent-rainbow",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
 			]
 		}
+	},
+	"containerEnv": {
+		"PYTHONPATH": "${containerWorkspaceFolder}/works/python3.12/src"
 	}
 }
