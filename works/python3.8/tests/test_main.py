@@ -1,6 +1,5 @@
-from trial_code import solution
-
 import pytest
+from main import solution
 
 
 @pytest.mark.parametrize("input_value, expected", [
