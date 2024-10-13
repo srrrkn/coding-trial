@@ -1,4 +1,11 @@
+# python
 __pycache__
 *.pyc
 .mypy_cache
 .pytest_cache
+
+# mac
+.DS_Store
+
+# other
+ans_*.py
